@@ -1,5 +1,5 @@
 # Reack Formik useState API
-***Deploy: https://adrionbass.github.io/image-browser/***
+***Deploy: https://adrionbass.github.io/react-imagebrowser/***
 
 # Simple image browser using unsplash.com api
 *******
